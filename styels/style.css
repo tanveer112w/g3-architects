@@ -1,0 +1,68 @@
+
+/* ===== Google Font ===== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#navber{
+    max-width: 1920px;
+    max-height: 1322px;
+    background-color: #FF900E1A;
+    margin: 0 auto;
+}
+.banner-container{
+    max-width: 1600px;
+    margin: 0 auto;
+    padding: 30px 40px 25px;
+}
+.banner-container .header{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 106px;
+}
+.header h2{
+    font-size: 45px;
+    font-weight: bold;
+}
+.links{
+    display: flex;
+    align-items: center;
+    gap: 45px;
+    
+}
+.links a{
+    text-decoration: none;
+    color: #727272;
+
+}
+.About-section{
+    max-width: 862px;
+    text-align: center;
+    margin: 0 auto;
+}
+.About-section h2{
+    font-size: 64px;
+    font-weight: bold;
+    padding-bottom: 30px;
+}
+.About-section p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    padding-bottom: 50px;
+}
+.btn{
+    padding: 21px 25px;
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 50px;
+    color: #FFFFFF;
+    border-radius: 8px;
+    background-color: #FF900E;
+    
+}
+.img{
+    max-width: 1440px;
+    margin: 0 auto;
+}
